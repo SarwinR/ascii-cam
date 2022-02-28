@@ -1,7 +1,7 @@
 #image2ascii
-Convert an image to ASCII characters.
-
-
+ Convert an image to ASCII characters.
+ 
+ 
 Images Credits
 
 - image_1 by [Sam Goh](https://unsplash.com/@samgoh_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
